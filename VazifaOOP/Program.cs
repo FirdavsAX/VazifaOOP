@@ -11,7 +11,6 @@
             a.SetHeight(12.2);
             a.SetWidth(10);
             a.Calculate();
-            Console.WriteLine();
         }
     }
     class Rectangle
